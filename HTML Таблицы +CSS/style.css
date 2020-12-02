@@ -1,0 +1,36 @@
+table {
+width: 100%;
+border-collapse: collapse;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+td {
+    border: 1px solid rgb(26, 25, 23);
+    height: 50px;
+    width: 33.33%;
+}
+.table1 {
+    width: 75%;
+   }
+.table2 {
+    width: 90%;
+   }
+.table3 {
+    width: 80%;
+   }
+.cell-200 {
+    height: 200px;
+}
+.cell-28 {
+width: 28%;
+}
+.cell-60 {
+width: 60%;
+}
+.cell-72 {
+    width: 72%;
+}
+.cell-40 {
+    width: 60%;
+}
